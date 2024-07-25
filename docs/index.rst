@@ -1,5 +1,5 @@
 Welcome to X Plant Disease Detector's documentation!
-======================================
+====================================================
 
 .. toctree::
    :maxdepth: 2
